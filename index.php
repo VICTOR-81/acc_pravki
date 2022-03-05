@@ -5,8 +5,8 @@
     <div class="container">
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
-                <h1 class="banner__title">Бизнес для иностранцев в Грузии</h1>
-                <p class="banner__text"> Срочно откроем компанию в Грузии и счет в грузинском банке.</p>
+                <h1 class="banner__title">Регистрация компании в Грузии</h1>
+                <p class="banner__text">Мы здесь, чтобы помочь начать и развивать ваш бизнес в Грузии.</p>
 
                 <div class="banner__inner">
                     <img src="images/pictures/business-in-georgia.png" alt="" />
@@ -37,8 +37,7 @@
                 <div class="t_wrapper18 after-opening_description">Мы поможем вам открыть компанию и банковский счет в
                     любом городе Грузии</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/open-company-in-georgia.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/open-company-in-georgia.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -47,8 +46,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">ИП с налогом 1% для фрилансеров</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 350$</div>
-                <a href="/open-ip-with-one-percent-tax.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/open-ip-with-one-percent-tax.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -59,8 +57,7 @@
                     налога на прибыль</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
                 <a href="/preferential-it-business-in-georgia.php"
-                    class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                    class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -70,8 +67,7 @@
                 <div class="t_wrapper18 after-opening_description">Наши опытные консультанты помогут вам сформировать
                     налоговую политику компании</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
         </div>
         <div class="grid3col services_box">
@@ -83,8 +79,7 @@
                 <div class="t_wrapper18 after-opening_description">Удаленная бухгалтерия поможет вам сосредоточиться на
                     развитии бизнеса, а не думать о подаче деклараций и выставлении счетов</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/accounting" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/accounting" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -93,8 +88,7 @@
                 <div class="t_wrapper18 after-opening_description">Подача налоговых деклараций и уплата соответствующих
                     налогов — неотъемлемая часть ведения бизнеса в Грузии.</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 350$</div>
-                <a href="/tax-return-audition" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-return-audition" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -103,8 +97,7 @@
                 <div class="t_wrapper18 after-opening_description">Мы берем на себя все обязательства по подготовке и
                     подаче налоговых деклараций</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-declaration" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-declaration" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -113,8 +106,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">--------</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -124,8 +116,7 @@
                 <div class="t_wrapper18 after-opening_description"> Доверьте расчёт зарплаты нам, чтобы сосредоточиться
                     на развитии бизнеса</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
         </div>
         <div class="grid3col services_box">
@@ -137,8 +128,7 @@
                 <div class="t_wrapper18 after-opening_description">Мы предлагаем помощь опытных специалистов для
                     подготовки и подачи бумаг в государственные органы и банки.</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/constituent-documents-changing" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/constituent-documents-changing" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -147,8 +137,7 @@
                 <div class="t_wrapper18 after-opening_description">Компания Jara Accounting поможет вам ликвидировать
                     компанию в Грузии</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 350$</div>
-                <a href="/company-liquidation" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/company-liquidation" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -156,8 +145,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">-------</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/commercial-law" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/commercial-law" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -166,8 +154,7 @@
                 <div class="t_wrapper18 after-opening_description">Мы берем на себя все обязательства по подготовке и
                     подаче налоговых деклараций</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -176,8 +163,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">-----</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tenders-support" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tenders-support" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
         </div>
         <div class="grid3col services_box">
@@ -189,8 +175,7 @@
                 <div class="t_wrapper18 after-opening_description">Открытие счета в грузинском банке для физических лиц
                     нерезидентов страны можно и удаленно в ускоренном режиме.</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="#" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="#" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -198,8 +183,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">----</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 350$</div>
-                <a href="/residence-permission" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/residence-permission" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -208,8 +192,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">-----</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/estate-support" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/estate-support" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -218,8 +201,7 @@
                 <div class="t_wrapper18 after-opening_description">Наша команда Jara Accounting поможет вам получить ПЖМ
                     в Грузии</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/permanent-residence" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/permanent-residence" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
             <div class="after-opening_card">
                 <div class="t_wrapper9 after-opening_cardname">
@@ -229,8 +211,7 @@
                 <div class="t_wrapper18 after-opening_description"> Доверьте расчёт зарплаты нам, чтобы сосредоточиться
                     на развитии бизнеса</div>
                 <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
-                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Открыть
-                    компанию</a>
+                <a href="/tax-planning.php" class="t_wrapper16 btn-hover after-opening_button">Подробнее</a>
             </div>
         </div>
     </div>
@@ -244,9 +225,9 @@
     <div class="container">
         <div class="advantage__wrapper grid2col">
             <div class="advantage__wrapper-item">
-                <div class="advantage__item-title">Реагируем быстрее, чем все остальные</div>
+                <div class="advantage__item-title">Нет «налога на туриста»</div>
                 <div class="p advantage__item-text">
-                    Мы максимально быстро обработаем ваш запрос, вы получите ответ на свой вопрос в течение 30 минут.
+                    Справедливые, прозрачные цены для иностранцев.
                 </div>
             </div>
             <div class="advantage__wrapper-item">
