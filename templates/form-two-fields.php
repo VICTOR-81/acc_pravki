@@ -5,7 +5,7 @@
             if (isset($form_title)) {
                 echo $form_title;
             } else {
-                echo 'Оптимизируйте налоги вашего бизнеса вместе с Jara Accounting';
+                echo 'Приведите в порядок свою бухгалтерию вместе с Jara Accounting';
             }
             ?>
         </div>

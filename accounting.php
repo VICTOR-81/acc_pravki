@@ -7,7 +7,7 @@
     			<div class="banner__wrapper-content">
     				<h1 class="banner__title">Бухгалтерский учет в Грузии</h1>
     				<p class="banner__text">
-    					Удаленная бухгалтерия поможет вам сосредоточиться на развитии бизнеса, а не думать о подаче деклараций и выставлении счетов
+						Ваш личный бухгалтер в Грузии будет ежедневно на связи через любой удобный для вас мессенджер.
     				</p>
     				<div class="banner__inner">
     					<img src="images/pictures/banner__simple-img3.png" alt="" />
@@ -50,10 +50,9 @@
 			<div class="featuresofaccounting__wrapepper grid1_2">
 				<div class="tile featuresofaccounting__tile">
 					<div class="featuresofaccounting__tile-inner">
-						<div class="tile_title featuresofaccounting-tile_title">Отчетность прямо в телефоне онлайн</div>
+						<div class="tile_title featuresofaccounting-tile_title">Доступ к отчетам с телефона</div>
 						<div class="tile_text featuresofaccounting-tile_text">
-							Онлайн-доступ к данным учета и возможность контроля со стороны клиента, бухгалтерская и финансовая отчетность прямо в
-							телефоне в режим онлайн
+						Онлайн-доступ к данным учета и возможность контроля со стороны клиента, бухгалтерская и финансовая отчетность прямо в телефоне в режим онлайн
 						</div>
 					</div>
 					<img src="images/pictures/featuresofaccounting-img1.png" alt="" />
@@ -75,8 +74,7 @@
 					<div class="featuresofaccounting__tile-inner">
 						<div class="tile_title featuresofaccounting-tile_title">Контролируйте работу бухгалтерии</div>
 						<div class="tile_text featuresofaccounting-tile_text">
-							Возможность создания менеджерской учетной записи для клиентов, чтобы вы могли контролировать работу бухгалтерии и всегда
-							быть в курсе текущих дел.
+						У вас будет своя менеджерская учетная запись, чтобы вы могли контролировать работу бухгалтерии и всегда быть в курсе текущих дел.
 						</div>
 					</div>
 					<img src="images/pictures/featuresofaccounting-img2.png" alt="" />
@@ -85,7 +83,7 @@
 		</div>
 	</div>
 	<!-- Как подключаем бух. учет -->
-	<section class="accounting default_block">
+	<!-- <section class="accounting default_block">
 		<div class="container">
 			<div class="accounting__title">
 				<p>Как мы подключаем</p>
@@ -121,7 +119,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
     <?php include 'templates/business-cases.php'; ?>
 
