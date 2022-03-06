@@ -96,6 +96,9 @@
 <div class="ip__open default_block">
     <div class="container">
         <div class="ip__open-title">Сроки открытия ИП</div>
+        <div class="warning-message">
+        С 01.03.2022 для граждан Российской Федерации и Республики Беларусь рассмотрение заявки на регистрацию ИП продлили до 30 дней.
+        </div>
         <div class="ip__open-wrapper grid2col">
             <div class="tile ip__open-tile">
                 <div class="tile_title ip__open-tile_title">3 дня с личным присутствием</div>
