@@ -5,7 +5,7 @@
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Payroll Аутсорсинг</h1>
-                <p class="banner__text">Доверьте расчёт зарплаты нам, чтобы сосредоточиться на развитии бизнеса</p>
+                <p class="banner__text">Мы займемся подсчетом зарплаты ваших сотрудников, подоходным налогом и пенсионными отчислениями в то время как вы можете сконцентрироваться на развитии бизнеса.</p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img7.png" alt="" />
                 </div>
