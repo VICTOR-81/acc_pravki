@@ -6,7 +6,7 @@
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Коммерческое право в Грузии</h1>
-                <p class="banner__text">Компания Jara Accounting поможет вам ликвидировать компанию в Грузии</p>
+                <p class="banner__text">Компания Jara Accounting окажет вам постоянную правовую поддержку  и консультацию в области коммерческого права Грузии по широкому кругу вопросов.</p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img11.png" alt="" />
                 </div>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="t_wrapper18 after-opening_description">Мы поможем вам учредить либо же ликвидировать ваш
                     текущий бизнес</div>
-                <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+                <div class="t_wrapper14 after-opening_price">Цена - от 250$</div>
                 <div class="t_wrapper16 after-opening_button">Подробнее</div>
             </div>
             <div class="after-opening_card">
@@ -40,7 +40,7 @@
                 <div class="t_wrapper18 after-opening_description">
                     Подготовим и организуем внутреннее делопроизводство, составим акты, ведомости
                 </div>
-                <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+                <div class="t_wrapper14 after-opening_price">Цена - от 300$</div>
                 <div class="t_wrapper16 after-opening_button">Подробнее</div>
             </div>
             <div class="after-opening_card">
@@ -51,7 +51,7 @@
                 <div class="t_wrapper18 after-opening_description">
                     Поможем с подготовлением и составлением всех видов коммерческих договоров
                 </div>
-                <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+                <div class="t_wrapper14 after-opening_price">Цена - от 200$</div>
                 <div class="t_wrapper16 after-opening_button">Подробнее</div>
             </div>
             <div class="after-opening_card">
@@ -62,7 +62,7 @@
                 <div class="t_wrapper18 after-opening_description">
                     Поможем с подготовлением и составлением всех видов коммерческих договоров
                 </div>
-                <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+                <div class="t_wrapper14 after-opening_price">Цена - от 250$</div>
                 <div class="t_wrapper16 after-opening_button">Подробнее</div>
             </div>
             <div class="after-opening_card">
@@ -71,7 +71,7 @@
                     <p>дилерские договоры</p>
                 </div>
                 <div class="t_wrapper18 after-opening_description">Дистрибьюторские, дилерские договоры</div>
-                <div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+                <div class="t_wrapper14 after-opening_price">Цена - от 500$</div>
                 <div class="t_wrapper16 after-opening_button">Подробнее</div>
             </div>
         </div>
@@ -109,7 +109,7 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Оптимизируйте ведение вашего бизнеса вместе с Jara Accounting'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 

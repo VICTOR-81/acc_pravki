@@ -7,8 +7,7 @@
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Вид на жительство в Грузии (ВНЖ)</h1>
                 <p class="banner__text">
-                    Открытие счета в грузинском банке для физических лиц нерезидентов страны можно и удаленно в
-                    ускоренном режиме.
+                Мы поможем вам собрать все необходимые документы для оформления ВНЖ Грузии.
                 </p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img14.png" alt="" />
@@ -315,8 +314,6 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
-
-<?php include 'templates/after-opening-business.php';?>
+<?php $form_title = 'Заполните форму и мы с вами свяжемся'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/footer.php';?>

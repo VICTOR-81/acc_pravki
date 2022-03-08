@@ -31,7 +31,9 @@
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Добровольная ликвидация по решению</p>
-                    <p>учредителей (акционеров) – Ст. 14.</p>
+                    <p>учредителей (акционеров) – 
+                        <a href="https://matsne.gov.ge/en/document/download/28408/49/ru/pdf">Ст. 14.</a>
+                    </p>
                 </div>
             </div>
             <div class="tile">
@@ -41,7 +43,9 @@
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Принудительная ликвидация</p>
-                    <p>на основании решения суда – Ст.15.</p>
+                    <p>на основании решения суда – 
+                        <a href="https://matsne.gov.ge/en/document/download/28408/49/ru/pdf">Ст. 15.</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -58,39 +62,39 @@
                     <div class="number_in_circle">1</div>
                     Проверить наличие задолженностей
                 </div>
-                <p class="accounting__item-text">
+                <!-- <p class="accounting__item-text">
                     Вовремя и без ошибок рассчитываем заработную плату и прочие компенсационные выплаты, предусмотренные
                     законодательством РФ.
-                </p>
+                </p> -->
             </div>
             <div class="accounting__wrapper-item">
                 <div class="accounting__item-title">
                     <div class="number_in_circle">2</div>
                     Подать документы на закрытие фирмы
                 </div>
-                <p class="accounting__item-text">
+                <!-- <p class="accounting__item-text">
                     Рассчитываем все установленные законом налоги и взносы с ФОТ, обеспечиваем их своевременную оплату.
-                </p>
+                </p> -->
             </div>
             <div class="accounting__wrapper-item">
                 <div class="accounting__item-title">
                     <div class="number_in_circle">3</div>
                     Провести налоговую проверку
                 </div>
-                <p class="accounting__item-text">
+                <!-- <p class="accounting__item-text">
                     Готовим и сдаем обязательные формы отчетности в ИФНС, ПФР, ФСС, Росстат, Фонд квотирования рабочих
                     мест.
-                </p>
+                </p> -->
             </div>
             <div class="accounting__wrapper-item">
                 <div class="accounting__item-title">
                     <div class="number_in_circle">4</div>
                     Провести налоговую проверку
                 </div>
-                <p class="accounting__item-text">
+                <!-- <p class="accounting__item-text">
                     Экономим ваше время на взаимодействии с контролирующими госорганами, берем все запросы и документы
                     на себя
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
@@ -153,7 +157,7 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Оптимизируйте ведение вашего бизнеса вместе с Jara Accounting'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 

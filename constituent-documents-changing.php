@@ -7,8 +7,7 @@
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Внесение изменений в учредительные документы</h1>
                 <p class="banner__text">
-                    Мы предлагаем помощь опытных специалистов для подготовки и подачи бумаг в государственные органы и
-                    банки.
+                Поможем внести изменения в уставные документы вашей компании и зарегистрируем их в государственных органах.
                 </p>
                 <div class="banner__inner">
                     <img src="images/banner__simple-img9.png" alt="" />
@@ -34,7 +33,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>При изменениях в составе</p>
+                    <p>Изменения в составе</p>
                     <p>руководства</p>
                 </div>
             </div>
@@ -43,7 +42,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>При изменение юридического</p>
+                    <p>Изменение юридического</p>
                     <p>адреса</p>
                 </div>
             </div>
@@ -52,8 +51,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>При смене</p>
-                    <p>гендиректора</p>
+                    <p>Смена директора</p>
                 </div>
             </div>
             <div class="tile">
@@ -61,7 +59,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>При изменениях, касающихся</p>
+                    <p>Изменения, касающиеся</p>
                     <p>реквизитов учредителей</p>
                 </div>
             </div>
@@ -70,7 +68,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>Для пополнения или уменьшения</p>
+                    <p>Пополнение или уменьшение</p>
                     <p>уставного капитала</p>
                 </div>
             </div>
@@ -79,7 +77,7 @@
                     <p>Текст</p>
                 </div>
                 <div class="tile_text t_wrapper17">
-                    <p>При ограничениях действий</p>
+                    <p>Ограничение действий</p>
                     <p>директора по уставу и др</p>
                 </div>
             </div>
@@ -130,7 +128,7 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Оптимизируйте ведение вашего бизнеса вместе с Jara Accounting'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 

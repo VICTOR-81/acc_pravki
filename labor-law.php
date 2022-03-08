@@ -7,7 +7,7 @@
 			<div class="banner__wrapper">
 				<div class="banner__wrapper-content">
 					<h1 class="banner__title">Трудовое право в Грузии</h1>
-					<p class="banner__text">Компания Jara Accounting поможет вам ликвидировать компанию в Грузии</p>
+					<p class="banner__text">Поможем с составлением двуязычных трудовых контрактов и соглашений о неразглашении сведений с сотрудниками.</p>
 					<div class="banner__inner">
 						<img src="images/pictures/banner__simple-img12.png" alt="" />
 					</div>
@@ -30,7 +30,7 @@
 						<p>сотрудников</p>
 					</div>
 					<div class="t_wrapper18 after-opening_description">Поможем создать полный пакет документов для ваших сотрудников</div>
-					<div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+					<div class="t_wrapper14 after-opening_price">Цена - от 150$</div>
 					<div class="t_wrapper16 after-opening_button">Подробнее</div>
 				</div>
 				<div class="after-opening_card">
@@ -39,7 +39,7 @@
 						<p>по трудовому праву</p>
 					</div>
 					<div class="t_wrapper18 after-opening_description">Консультация касательно правильного применения трудового права Грузии</div>
-					<div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+					<div class="t_wrapper14 after-opening_price">Цена - 40$ в час</div>
 					<div class="t_wrapper16 after-opening_button">Подробнее</div>
 				</div>
 				<div class="after-opening_card">
@@ -48,7 +48,7 @@
 						<p>документации</p>
 					</div>
 					<div class="t_wrapper18 after-opening_description">Проведение аудита кадровой документации</div>
-					<div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+					<div class="t_wrapper14 after-opening_price">Цена - от 150$</div>
 					<div class="t_wrapper16 after-opening_button">Подробнее</div>
 				</div>
 				<div class="after-opening_card">
@@ -59,10 +59,10 @@
 					<div class="t_wrapper18 after-opening_description">
 						Заключения на предмет правомерности и соответствия законодательством Грузии
 					</div>
-					<div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
+					<div class="t_wrapper14 after-opening_price">Цена - от 70$</div>
 					<div class="t_wrapper16 after-opening_button">Подробнее</div>
 				</div>
-				<div class="after-opening_card">
+				<!-- <div class="after-opening_card">
 					<div class="t_wrapper9 after-opening_cardname">
 						<p>Защита интересов</p>
 						<p>работодателя в суде</p>
@@ -72,7 +72,7 @@
 					</div>
 					<div class="t_wrapper14 after-opening_price">Цена - от 950$</div>
 					<div class="t_wrapper16 after-opening_button">Подробнее</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
@@ -107,7 +107,7 @@
 
 	<?php include 'templates/reviews.php';?>
 
-	<?php include 'templates/form-four-fields.php';?>
+	<?php $form_title = 'Оптимизируйте ведение вашего бизнеса вместе с Jara Accounting'; include 'templates/form-four-fields.php';?>
 
 	<?php include 'templates/after-opening-business.php';?>
 

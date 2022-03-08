@@ -6,7 +6,7 @@
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Сопровождение в тендерах Грузии</h1>
-                <p class="banner__text">Компания Jara Accounting поможет вам ликвидировать компанию в Грузии</p>
+                <p class="banner__text">Jara Accounting предоставляет услугу сопровождение в тендерах на всех этапах.</p>
                 <div class="banner__inner">
                     <img src="images/banner__simple-img13.png" alt="" />
                 </div>
