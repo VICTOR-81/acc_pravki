@@ -8,8 +8,7 @@
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Сопровождение сделок с недвижимостью в Грузии</h1>
                 <p class="banner__text">
-                    Открытие счета в грузинском банке для физических лиц нерезидентов страны можно и удаленно в
-                    ускоренном режиме.
+                Поможем разобраться с тонкостями законодательства Грузии в сфере недвижимости и заключить успешную сделку.
                 </p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img15.png" alt="" />
@@ -179,7 +178,7 @@
 
 <!-- стоимость и сроки -->
 
-<section>
+<!-- <section>
     <div class="tile_container container">
         <div class="tile_header t_wrapper2">Стоимость и сроки</div>
         <div class="grid3col">
@@ -215,14 +214,14 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <?php include 'templates/business-cases.php'; ?>
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Заполните форму и мы с вами свяжемся'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 

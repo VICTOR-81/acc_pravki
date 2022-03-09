@@ -38,9 +38,8 @@
                             <div class="tile_text t_wrapper17">
                                 <p>Инвестиция от 300 000 долларов:</p>
                                 <p>а) в первый год 50 000 долларов;</p>
-                                <p id="tile-text_split24">б) второй год 100 000 долларов;</p>
-                                <p>
-                                    в) третий, четвертый и пятый год по 120 000 долларов или лица, получившие временное
+                                <p>б) второй год 100 000 долларов;</p>
+                                <p>в) третий, четвертый и пятый год по 120 000 долларов или лица, получившие временное
                                     ВНЖ на основании
                                     собственности (кроме сельскохозяйственной земли) стоимостью 300 000 долларов и
                                     владеющих этой собственностью
@@ -66,9 +65,8 @@
                     <div class="tile_text t_wrapper17">
                         <p>Инвестиция от 300 000 долларов:</p>
                         <p>а) в первый год 50 000 долларов;</p>
-                        <p id="tile-text_split24">б) второй год 100 000 долларов;</p>
-                        <p>
-                            в) третий, четвертый и пятый год по 120 000 долларов или лица, получившие временное ВНЖ на
+                        <p>б) второй год 100 000 долларов;</p>
+                        <p>в) третий, четвертый и пятый год по 120 000 долларов или лица, получившие временное ВНЖ на
                             основании собственности
                             (кроме сельскохозяйственной земли) стоимостью 300 000 долларов и владеющих этой
                             собственностью последние 5 лет.
@@ -85,8 +83,7 @@
 <section class="document_list">
     <div class="tile_container container">
         <div class="tile_header t_wrapper2">
-            В каких ситуациях стоит
-            <p>обратиться к специалистам?</p>
+        Список документов
         </div>
         <div class="grid4col">
             <div class="tile">
@@ -140,7 +137,7 @@
                     <p>В общем порядке</p>
                 </div>
                 <div class="tile_text t_wrapper17" id="tile-text_split">
-                    <p>30 дней и 210 лари</p>
+                    <p>за календарных 30 дней и 180 лари</p>
                 </div>
                 <button class="tile_link_showen t_wrapper16 text-hover">Оставить заявку <img
                         src="images/icons/right-arrow.svg" alt="" /></button>
@@ -150,7 +147,7 @@
                     <p>С доплатой за ускорение</p>
                 </div>
                 <div class="tile_text t_wrapper17" id="tile-text_split">
-                    <p>20 дней и 330 лари</p>
+                    <p>в календарных 20 дней и 200 лари</p>
                 </div>
                 <button class="tile_link_showen t_wrapper16 text-hover">Оставить заявку <img
                         src="images/icons/right-arrow.svg" alt="" /></button>
@@ -173,7 +170,7 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Заполните форму и мы с вами свяжемся'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 

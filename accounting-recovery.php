@@ -5,7 +5,7 @@
         <div class="banner__wrapper">
             <div class="banner__wrapper-content">
                 <h1 class="banner__title">Восстановление бухгалтерии</h1>
-                <p class="banner__text">Мы берем на себя все обязательства по подготовке и подаче налоговых деклараций
+                <p class="banner__text">Приведем всю финансовую документацию вашей компании к четкому соответствию с законодательством Грузии.
                 </p>
                 <div class="banner__inner">
                     <img src="images/pictures/banner__simple-img6.png" alt="" />
@@ -28,45 +28,28 @@
                     <p>Никогда не вели</p>
                     <p>бухгалтерию</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Когда по определенным причинам ведение</p>
-                    <p>бухгалтерского учете не осуществлялось</p>
-                    <p>cо дня основания компании</p>
-                </div>
+             
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper5">
                     <p>Не устроил</p>
                     <p>прошлый бухгалтер</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Некомпетентность предыдущего бухгалтера,</p>
-                    <p>которая повлекла за собой некоторые</p>
-                    <p>проблемы, и есть необходимость</p>
-                    <p>перепроверки всего учетного периода</p>
-                </div>
+               
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper5">
                     <p>Потеряли</p>
                     <p>документацию</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Недобросовестность бухгалтера, который занимался</p>
-                    <p>делами компании и в связи с разногласиями</p>
-                    <p>покинул должность и не</p>
-                    <p>вернул документы</p>
-                </div>
+                
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper5">
                     <p>Произошел</p>
                     <p>форс-мажор</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Форс-мажорные обстоятельства, которые</p>
-                    <p>привели к потере всей первичной документации.</p>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -198,19 +181,11 @@
                     <p>Новую или исправленную</p>
                     <p>бухгалтерскую базу</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Новую или исправленную бухгалтерскую</p>
-                    <p>базу 1С - в идеальном виде.</p>
-                </div>
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper5">
                     <p>Правильную бухгалтерскую</p>
                     <p>отчетность</p>
-                </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Правильную бухгалтерскую и налоговую</p>
-                    <p>отчетность за период восстановления.</p>
                 </div>
             </div>
             <div class="tile">
@@ -218,19 +193,11 @@
                     <p>Платежки</p>
                     <p>на налоги</p>
                 </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Платежки на налоги,</p>
-                    <p>если требуется доплата.</p>
-                </div>
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper5">
                     <p>Возврат денег</p>
                     <p>на расчетный счет</p>
-                </div>
-                <div class="tile_text t_wrapper17">
-                    <p>Возврат денег на расчетный счет,</p>
-                    <p>если было излишнее взыскание.</p>
                 </div>
             </div>
         </div>
@@ -242,7 +209,7 @@
 
 <?php include 'templates/reviews.php';?>
 
-<?php include 'templates/form-four-fields.php';?>
+<?php $form_title = 'Приведите в порядок свою бухгалтерию вместе с Jara Accounting'; include 'templates/form-four-fields.php';?>
 
 <?php include 'templates/after-opening-business.php';?>
 
