@@ -30,7 +30,7 @@
         <div class="grid3col">
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>1</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Изменения в составе</p>
@@ -39,7 +39,7 @@
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>2</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Изменение юридического</p>
@@ -48,7 +48,7 @@
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>3</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Смена директора</p>
@@ -56,7 +56,7 @@
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>4</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Изменения, касающиеся</p>
@@ -65,7 +65,7 @@
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>5</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Пополнение или уменьшение</p>
@@ -74,7 +74,7 @@
             </div>
             <div class="tile">
                 <div class="tile_title t_wrapper9">
-                    <p>Текст</p>
+                    <p>6</p>
                 </div>
                 <div class="tile_text t_wrapper17">
                     <p>Ограничение действий</p>
